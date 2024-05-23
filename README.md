@@ -107,3 +107,4 @@ We are [available for hire][hire].
 [version]: https://badge.fury.io/rb/factory_bot
 [hound-badge-image]: https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg
 [hound]: https://houndci.com
+
